@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sacylkowski
 - 👀 I’m interested in Harry Potter, baking, and coding.
-- 🌱 I’m currently learning how to be a full stack developer.
-- 💞️ I’m looking to collaborate on anything fun or game related.
+- 🌱 I’m currently coding an app with a database of my favorite recipes to help me meal plan.
+- 💞️ I’m looking to collaborate on anything fantasy related.
 - 📫 You can reach me at <a href="mailto:Sacylkowski@gmail.com">Sacylkowski@gmail.com</a>
 
 <!---
